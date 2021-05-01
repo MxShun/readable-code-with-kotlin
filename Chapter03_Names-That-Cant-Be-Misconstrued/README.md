@@ -1,4 +1,4 @@
-# 3章 誤解をされない名前 *Chapter3 Names That Can't Be Misconstrued*
+# 3章 誤解をされない名前 *Names That Can't Be Misconstrued*
 名前が他の意味と間違えられることはないだろうか？と何度も自問自答する。
 
 ### 3.1 例：filter() *Example: filter()*
