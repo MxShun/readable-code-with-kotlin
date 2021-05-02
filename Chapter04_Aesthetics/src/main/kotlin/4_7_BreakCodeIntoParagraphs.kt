@@ -5,7 +5,7 @@ fun badSuggestNewFriends(user: User, emailPassword: String) {
     val contacts = importContacts(user.email, emailPassword)
     val contactEmails = contacts.map { it.email }
     val nonFriendEmails = contactEmails - friendsEmails
-    val suggestedFriends = user.select(nonFriendEmails)
+    val suggestedFriends = user.selectByEmails(nonFriendEmails)
     print(user)
     print(friends)
     print(suggestedFriends)
@@ -21,9 +21,9 @@ fun goodSuggestNewFriends(user: User, emailPassword: String) {
     val contacts = importContacts(user.email, emailPassword)
     val contactEmails = contacts.map { it.email }
 
-    // まだともだちになっていないユーザを探す
+    // まだ友達になっていないユーザを探す
     val nonFriendEmails = contactEmails - friendsEmails
-    val suggestedFriends = user.select(nonFriendEmails)
+    val suggestedFriends = user.selectByEmails(nonFriendEmails)
 
     // それをページに表示する
     print(user)
@@ -37,7 +37,7 @@ class User {
     val email: String = ""
 
     fun friends(): List<Friend> = listOf()
-    fun select(emails: List<String>): List<Friend> = listOf()
+    fun selectByEmails(emails: List<String>): List<Friend> = listOf()
 }
 
 class Friend {
