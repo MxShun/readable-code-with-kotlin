@@ -10,7 +10,7 @@
 |  5 | コメントすべきことを知る | [Chapter05_Knowing-What-to-Comment](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter05_Knowing-What-to-Comment#readme) |
 |  6 | コメントは正確で簡潔に | [Chapter06_Making-Comments-Precise-and-Compact](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter06_Making-Comments-Precise-and-Compact#readme) |
 |  7 | 制御フローを読みやすくする | [Chapter07_Making-Control-Flow-Easy-to-Read](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter07_Making-Control-Flow-Easy-to-Read#readme) |
-|  8 | 巨大な式を分割する | WIP |
+|  8 | 巨大な式を分割する | [Chapter08_Breaking-Down-Giant-Expressions](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter08_Breaking-Down-Giant-Expressions#readme) |
 |  9 | 変数を読みやすさ | WIP |
 | 10 | 無関係の下位問題を抽出する| WIP |
 | 11 | 一度に1つのことを| WIP |
