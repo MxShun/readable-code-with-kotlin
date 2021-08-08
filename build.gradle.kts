@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     idea
-    kotlin("jvm") version "1.4.21" apply false
+    kotlin("jvm") version "1.5.21" apply false
     id("io.gitlab.arturbosch.detekt") version "1.17.1"
 }
 
