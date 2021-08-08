@@ -1,3 +1,4 @@
+@file:Suppress("MatchingDeclarationName")
 class StatisticsCollector {
     fun addSample(x: Double) {}
 

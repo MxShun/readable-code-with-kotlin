@@ -1,5 +1,5 @@
 // ✕すべてのメンバ変数を追跡したり、度のメソッドが変数を変更しているかを把握したりするのが難しい
-class LargeClass {
+class LargeClass1 {
     var str = ""
 
     fun method1() {
@@ -15,7 +15,7 @@ class LargeClass {
 }
 
 // ○ str をローカル変数に格下げするといいかもしれない
-class LargeClass_ {
+class LargeClass2 {
     fun method1() {
         val str = "1"
         method2(str)

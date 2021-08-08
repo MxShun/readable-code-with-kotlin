@@ -1,3 +1,5 @@
+@file:Suppress("SpacingAroundComma")
+
 import org.junit.jupiter.api.Test
 
 internal class _4_4_UseColumnAlignmentWhenHelpfulKtTest {

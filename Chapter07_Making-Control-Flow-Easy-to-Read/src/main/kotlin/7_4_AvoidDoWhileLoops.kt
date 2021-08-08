@@ -1,3 +1,5 @@
+@file:Suppress("MultiLineIfElse")
+
 // △ do/while 文はコードブロックを再実行する条件が下にあり不自然
 // 'name' に合致するものを 'node' のリストから探索する
 // 'maxLength' を超えたノードは考えない
@@ -6,7 +8,7 @@ fun listHasNodeDoWhile(node: Node, name: String, maxLength: Int): Boolean {
     var maxLength = maxLength
 
     do {
-        if(node.name().equals(name))
+        if (node.name().equals(name))
             return true
         node = node.next()
     } while (node != null && --maxLength > 0)
@@ -20,7 +22,7 @@ fun listHasNodeWhile(node: Node, name: String, maxLength: Int): Boolean {
     var maxLength = maxLength
 
     while (node != null && maxLength-- > 0) {
-        if(node.name().equals(name)) return true
+        if (node.name().equals(name)) return true
         node = node.next()
     }
     return false

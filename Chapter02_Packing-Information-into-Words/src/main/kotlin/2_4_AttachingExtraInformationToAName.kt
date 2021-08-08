@@ -1,4 +1,3 @@
-import java.lang.Thread
 import java.time.Instant
 
 class NumberBases {
@@ -19,6 +18,7 @@ class Units {
     }
 
     // 〇ナノ秒という時間の単位情報を付加
+    @Suppress("MagicNumber")
     fun showLoadTimeNs() {
         val startNs = Instant.now().nano
         // 処理

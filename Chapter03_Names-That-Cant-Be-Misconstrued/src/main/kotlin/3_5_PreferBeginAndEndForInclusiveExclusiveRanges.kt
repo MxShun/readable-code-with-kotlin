@@ -20,4 +20,4 @@ class PrintEvents {
     }
 }
 
-data class Event(val name:String, val dateTime: LocalDateTime)
+data class Event(val name: String, val dateTime: LocalDateTime)

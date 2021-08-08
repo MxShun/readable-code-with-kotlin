@@ -1,3 +1,5 @@
+@file:Suppress("SpacingAroundColon")
+
 // ✕無駄な余白、配置のズレ、不規則な順序
 class BadStatsKeeper {
 // double を記録するクラス

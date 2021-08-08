@@ -2,7 +2,7 @@
 // Account クラスの定義
 class Account {
     // コンストラクタ
-    fun Account() {}
+    constructor()
     // profit に新しい値を設定する
     fun setProfit(profit: Double) {}
     // この Account から profit を返す
@@ -47,6 +47,6 @@ class DontCommentBadNames {
     fun releaseRegistryHandle(key: RegistryKey) {}
 }
 
-class Request {}
-class Reply {}
-class RegistryKey {}
+class Request
+class Reply
+class RegistryKey

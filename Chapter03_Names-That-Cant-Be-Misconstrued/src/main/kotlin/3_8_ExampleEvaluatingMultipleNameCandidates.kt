@@ -1,3 +1,5 @@
+@file:Suppress("MagicNumber")
+
 class BeforeEvaluation {
     val experimentId = 101
     val theOtherExperimentIdIWantToReuse = 100

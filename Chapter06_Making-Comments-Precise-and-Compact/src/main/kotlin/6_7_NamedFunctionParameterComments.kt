@@ -1,3 +1,5 @@
+@file:Suppress("MagicNumber")
+
 fun connect(timeout: Int, useEncryption: Boolean) {}
 
 fun useConnection() {

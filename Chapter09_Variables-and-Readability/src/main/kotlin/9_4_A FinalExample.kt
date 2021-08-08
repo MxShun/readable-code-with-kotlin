@@ -1,27 +1,29 @@
+@file:Suppress("ReturnCount")
+
 // ✕ found、i、elem という3つの変数は関数の中で何度も書き換えられている
-fun getElementWithNewValue(newValue: String): Element {
+fun getElementWithNewValue1(newValue: String): Element {
     var found = false
     var i = 1
     var elem = Document().getElementById(i)
-    while(elem != null) {
-        if(elem.value == "") {
+    while (elem != null) {
+        if (elem.value == "") {
             found = true
             break
         }
         i++
         elem = Document().getElementById(i)
     }
-    if(found) elem.value = newValue
+    if (found) elem.value = newValue
     return elem
 }
 
 // ○ガード節で早期リターン、値を追いかける必要がない
-fun getElementWithNewValue_(newValue: String): Element? {
-    for(i in 1..Int.MAX_VALUE) {
+fun getElementWithNewValue2(newValue: String): Element? {
+    for (i in 1..Int.MAX_VALUE) {
         val elem = Document().getElementById(i)
-        if(elem == null) return null
+        if (elem == null) return null
 
-        if(elem.value == "") {
+        if (elem.value == "") {
             elem.value = newValue
             return elem
         }

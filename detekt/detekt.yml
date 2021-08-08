@@ -157,7 +157,7 @@ coroutines:
     active: false
 
 empty-blocks:
-  active: true
+  active: false # 中身を無視するため
   EmptyCatchBlock:
     active: true
     allowedExceptionNameRegex: '_|(ignore|expected).*'
@@ -286,7 +286,7 @@ formatting:
     active: false
     autoCorrect: true
   Filename:
-    active: true
+    active: false # トップクラスとの名称はここでは合わせていない
   FinalNewline:
     active: true
     autoCorrect: true
@@ -314,7 +314,7 @@ formatting:
     active: true
     autoCorrect: true
   NoConsecutiveBlankLines:
-    active: true
+    active: false # 見出し分けのため
     autoCorrect: true
   NoEmptyClassBody:
     active: true
@@ -329,7 +329,7 @@ formatting:
     active: true
     autoCorrect: true
   NoMultipleSpaces:
-    active: true
+    active: false # 悪い例のため
     autoCorrect: true
   NoSemicolons:
     active: true
@@ -623,7 +623,7 @@ style:
     ignoreOverridden: false
     ignoreUsageInGenerics: false
   FunctionOnlyReturningConstant:
-    active: true
+    active: false # 簡易化のために定数返却を許容
     ignoreOverridableFunction: true
     ignoreActualFunction: true
     excludedFunctions: ''
@@ -667,7 +667,7 @@ style:
     excludeImportStatements: true
     excludeCommentStatements: false
   MayBeConst:
-    active: true
+    active: false # 簡易化のために許容
   ModifierOrder:
     active: true
   MultilineLambdaItParameter:
@@ -738,7 +738,7 @@ style:
   UnusedPrivateClass:
     active: true
   UnusedPrivateMember:
-    active: true
+    active: false # 簡易化のために許容
     allowedNames: '(_|ignored|expected|serialVersionUID)'
   UseArrayLiteralsInAnnotations:
     active: false

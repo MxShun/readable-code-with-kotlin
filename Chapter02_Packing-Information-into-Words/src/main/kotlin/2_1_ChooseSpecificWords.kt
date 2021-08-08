@@ -24,8 +24,8 @@ class BinaryTree {
 
 class Thread {
     // △動作に合わせてより明確な名前をつけた方がよい
-    fun stop(): Unit {}
+    fun stop() {}
 
     // 〇取り消しができない重い操作の場合
-    fun kill(): Unit {}
+    fun kill() {}
 }

@@ -12,19 +12,19 @@ fun setViewdTimeNow(message: Message) {
 fun removeByValue(array: ArrayList<Int>, valueToRemove: Int) {
     // ✕中間変数を不必要に利用している
     var indexToRemove: Int? = null
-    for(i in 0..array.size) {
-        if(array[i] == valueToRemove) {
+    for (i in 0..array.size) {
+        if (array[i] == valueToRemove) {
             indexToRemove = i
             break
         }
     }
-    if(indexToRemove !== null) {
+    if (indexToRemove !== null) {
         array.drop(indexToRemove)
     }
 
     // ○コードがずっと簡潔になった
-    for(i in 0..array.size) {
-        if(array[i] == valueToRemove) {
+    for (i in 0..array.size) {
+        if (array[i] == valueToRemove) {
             array.drop(i)
             return
         }

@@ -1,3 +1,5 @@
+@file:Suppress("SpacingAroundParens", "MagicNumber")
+
 // △似ているコードは似ているように見せるの原則が守られていないし、縦に長く同じコメントが3回繰り返されている
 class NotGoodPerformanceTester {
     val wifi = TcpConnectionSimulator(
