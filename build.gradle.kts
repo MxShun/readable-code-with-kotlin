@@ -44,7 +44,7 @@ subprojects {
 
     dependencies {
         val testImplementation by configurations
-        testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.2")
+        testImplementation("org.junit.jupiter:junit-jupiter-api:5.7.2")
     }
 
     tasks {
