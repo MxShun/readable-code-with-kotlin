@@ -4,7 +4,7 @@ plugins {
 
 allprojects {
     repositories {
-        jcenter()
+        mavenCentral()
     }
 }
 
@@ -17,11 +17,6 @@ subprojects {
     }
     compileTestKotlin {
         kotlinOptions.jvmTarget = "1.8"
-    }
-
-    repositories {
-        mavenCentral()
-        jcenter()
     }
 
     dependencies {
