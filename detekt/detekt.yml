@@ -444,7 +444,7 @@ naming:
     excludes: ['**/*.kts']
     rootPackage: ''
   MatchingDeclarationName:
-    active: true
+    active: false # ファイル名はトップクラス名とリンクさせていない
     mustBeFirst: true
   MemberNameEqualsClassName:
     active: true

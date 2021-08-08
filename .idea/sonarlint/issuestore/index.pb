@@ -4,8 +4,6 @@
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
 î
@@ -34,8 +32,6 @@ XChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_2_TheOrderOfIfElse
 iChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_3_TheConditionalExpressionTernaryOperator.kt,8\c\8cf09f3cffcb276b5a8e4da0fe714dd17a5a4b5c
 â
 YChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_4_AbusingShortCircuitLogic.kt,0\0\00fb6ee04dd84b6bc8ebb2e6178443d412dc5743
-
-OChapter09_Variables-and-Readability/src/main/kotlin/9_1_EliminatingVariables.kt,6\a\6adf5bc1306b7982e07c873c0099f669997569e8
 ~
 NChapter05_Knowing-What-to-Comment/src/main/kotlin/5_2_RecordingYourThoughts.kt,2\5\256dae017fabf097b0cfed2b9b76707bca6df29c
 Å
@@ -60,8 +56,6 @@ fChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_4_DescribeFunct
 tChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_5_UseInputOutputExamplesThatIllustrateCornerCases.kt,f\0\f0750ffd65d0ef7494d13f46102cd172ef8c79a8
 Ñ
 TChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_1_ExplainingVariables.kt,a\f\af77e84ff57ad4481b425c2d36b808f2bc2b7f18
-à
-XChapter09_Variables-and-Readability/src/main/kotlin/9_2_ShrinkTheScopeOfYourVariables.kt,3\b\3b4607a3e6a3009f55f1577e12499bc3540cb2a1
 å
 \Chapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_7_MatchingExpectationsOfUsers.kt,d\e\de58fbcdeaf9582924529c4d3bd7503aa09b9d34
 É
@@ -90,9 +84,3 @@ cChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_7_NamedFunction
 WChapter04_Aesthetics/src/main/kotlin/4_2_RearrangeLineBreaksToBeConsistentAndCompact.kt,2\e\2e6ee404c51a3ac85c3832077faa0974c318e499
 ò
 hChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_8_ExampleEvaluatingMultipleNameCandidates.kt,9\d\9d363141b7e744597b85edbcc30860c4ac3233f5
-A
-detekt/detekt.yml,2\7\27ccc425b268737665df09d2a84d63e91f1394ed
-Ñ
-TChapter09_Variables-and-Readability/src/main/kotlin/9_3_PreferWrite-OnceVariables.kt,3\5\3563d6242182cd61806fac921b5cb5a701033e7b
-y
-IChapter09_Variables-and-Readability/src/main/kotlin/9_4_A FinalExample.kt,c\6\c6a661ed0aa448f2e31eeb87438c3d5f855854b2
