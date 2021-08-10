@@ -1,7 +1,4 @@
 
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 C
@@ -84,3 +81,35 @@ cChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_7_NamedFunction
 WChapter04_Aesthetics/src/main/kotlin/4_2_RearrangeLineBreaksToBeConsistentAndCompact.kt,2\e\2e6ee404c51a3ac85c3832077faa0974c318e499
 ò
 hChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_8_ExampleEvaluatingMultipleNameCandidates.kt,9\d\9d363141b7e744597b85edbcc30860c4ac3233f5
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+L
+.github/workflows/detekt.yml,a\1\a10da4fa97329e9b73e94a83f5ab1e7a2dd04f61
+F
+.github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+
+OChapter09_Variables-and-Readability/src/main/kotlin/9_1_EliminatingVariables.kt,6\a\6adf5bc1306b7982e07c873c0099f669997569e8
+à
+XChapter09_Variables-and-Readability/src/main/kotlin/9_2_ShrinkTheScopeOfYourVariables.kt,3\b\3b4607a3e6a3009f55f1577e12499bc3540cb2a1
+Ñ
+TChapter09_Variables-and-Readability/src/main/kotlin/9_3_PreferWrite-OnceVariables.kt,3\5\3563d6242182cd61806fac921b5cb5a701033e7b
+y
+IChapter09_Variables-and-Readability/src/main/kotlin/9_4_A FinalExample.kt,c\6\c6a661ed0aa448f2e31eeb87438c3d5f855854b2
+ã
+[Chapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_3_OtherGeneral-PurposeCode.kt,8\e\8e6d2692aad69b464d1e8dc22562c927761fb615
+ê
+`Chapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_5_Project-SpecificFunctionality.kt,5\5\55b6dfefa61722b56589c70b6b2ad2aa5ccbc404
+Ü
+VChapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_1_IntroductoryExample.kt,7\a\7abf9d2329ecd6d65af9b88aa7a0d142795f07b5
+ë
+aChapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_6_SimplifyingAnExistingInterface.kt,e\e\ee8d1eae65b6db1da9ab41dc199f0e4619fcf5cb
+Ö
+UChapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_8_TakingThingsTooFar.kt,1\7\17b9c05d17d4ac94946ec381a302758b9f53ece3
+d
+4Chapter10_Extracting-Unrelated-Subproblems/README.md,1\5\15797848622d7e23c776ab74b540356fadfe0fe5
+A
+detekt/detekt.yml,2\7\27ccc425b268737665df09d2a84d63e91f1394ed
+]
+-Chapter09_Variables-and-Readability/README.md,6\8\68ec60fbe328f0a663eecc6203cc7af7d77b1e99
