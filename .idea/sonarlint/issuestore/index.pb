@@ -107,8 +107,6 @@ VChapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_1_IntroductoryExa
 aChapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_6_SimplifyingAnExistingInterface.kt,e\e\ee8d1eae65b6db1da9ab41dc199f0e4619fcf5cb
 …
 UChapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_8_TakingThingsTooFar.kt,1\7\17b9c05d17d4ac94946ec381a302758b9f53ece3
-d
-4Chapter10_Extracting-Unrelated-Subproblems/README.md,1\5\15797848622d7e23c776ab74b540356fadfe0fe5
 A
 detekt/detekt.yml,2\7\27ccc425b268737665df09d2a84d63e91f1394ed
 ]
