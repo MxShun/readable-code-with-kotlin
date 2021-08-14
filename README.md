@@ -14,7 +14,7 @@
 |  9 | 変数と読みやすさ | [Variables and Readability](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter09_Variables-and-Readability#readme) |
 | 10 | 無関係の下位問題を抽出する| [Extracting Unrelated Subproblems](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter10_Extracting-Unrelated-Subproblems#readme) |
 | 11 | 一度に1つのことを| [One Task at a Time](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter11_One-Task-at-a-Time#readme) |
-| 12 | コードに思いを込める | WIP |
+| 12 | コードに思いを込める | [Turning Thoughts into Code](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter12_Turning-Thoughts-into-Code#readme) |
 | 13 | 短いコードを書く| WIP |
 | 14 | テストと読みやすさ | WIP |
 | 15 | 「分/カウンタ」を設計・実装する | WIP |
