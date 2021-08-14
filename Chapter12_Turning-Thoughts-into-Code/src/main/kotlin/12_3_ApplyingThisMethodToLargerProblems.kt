@@ -67,7 +67,7 @@ fun advanceToMatchingTime(
     stockIter: Iterator<Stock>,
     priceIter: Iterator<Price>,
     numSharesIter: Iterator<NumberShares>,
-): LocalDateTime {
+): LocalDateTime? {
     // 3つのテーブルの行を一度にイテレートする
     while (stockIter.hasNext() && priceIter.hasNext() && numSharesIter.hasNext()) {
         val stockTime = stockIter.next().time
@@ -90,6 +90,7 @@ fun advanceToMatchingTime(
         assert(stockTime == priceTime && priceTime == numSharesTime)
         return stockTime
     }
+    return null
 }
 
 data class Stock(
