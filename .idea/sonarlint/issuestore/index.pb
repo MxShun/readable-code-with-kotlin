@@ -128,3 +128,11 @@ s
 CChapter11_One-Task-at-a-Time/src/main/kotlin/11_3_ALargerExample.kt,8\3\83a2dd2c679e326567ceddf8dbd6a5f6ac2372d1
 ;
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
+V
+&Chapter11_One-Task-at-a-Time/README.md,8\3\833581920f7d4aa746fdca7b075df31bba08f868
+É
+SChapter12_Turning-Thoughts-into-Code/src/main/kotlin/12_1_DescribingLogicClearly.kt,1\4\143f90bd8393b8130aa62f77135b558aea7705ef
+^
+.Chapter12_Turning-Thoughts-into-Code/README.md,c\6\c6923fb4fd61c718f132f5d081552869ebe938d5
+è
+_Chapter12_Turning-Thoughts-into-Code/src/main/kotlin/12_3_ApplyingThisMethodToLargerProblems.kt,b\b\bb219b24bbf2aa76f8e2363b6d9c793f7c671180
