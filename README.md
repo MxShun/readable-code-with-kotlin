@@ -16,7 +16,7 @@
 | 11 | 一度に1つのことを| [One Task at a Time](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter11_One-Task-at-a-Time#readme) |
 | 12 | コードに思いを込める | [Turning Thoughts into Code](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter12_Turning-Thoughts-into-Code#readme) |
 | 13 | 短いコードを書く| [Writing Less Code](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter13_Writing-Less-Code#readme) |
-| 14 | テストと読みやすさ | WIP |
+| 14 | テストと読みやすさ | [Testing and Readability](https://github.com/MxShun/readable-code-with-kotlin/tree/main/Chapter14_Testing-and-Readability#readme) |
 | 15 | 「分/カウンタ」を設計・実装する | WIP |
 
 ご指摘、ご意見、ご要望は Issues、PR もしくは Twitter[@MxShun](https://twitter.com/MxShun) へお願いいたします。

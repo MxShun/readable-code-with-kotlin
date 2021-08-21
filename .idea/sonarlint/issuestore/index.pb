@@ -19,8 +19,6 @@ KChapter04_Aesthetics/src/main/kotlin/4_3_UseMethodsToCleanUpIrregularity.kt,d\
 TChapter04_Aesthetics/src/main/kotlin/4_5_PickAMeaningfulOrderAndUseItConsistently.kt,a\8\a8afbc2e59ac670cceff343ef4101a1ad6d84999
 s
 CChapter04_Aesthetics/src/main/kotlin/4_7_BreakCodeIntoParagraphs.kt,5\6\5676a1a4e9eb65280b7e7e7055c09f0c082bf12e
-Ç
-RChapter04_Aesthetics/src/test/kotlin/_4_3_UseMethodsToCleanUpIrregularityKtTest.kt,3\0\308ac5391d083f793194558129703f49f222a5a2
 ç
 ]Chapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_6_StateTheIntentOfYourCode.kt,c\e\ce0325cece172ea89dcbc231b6f099cd7efdba43
 à
@@ -134,5 +132,3 @@ SChapter12_Turning-Thoughts-into-Code/src/main/kotlin/12_1_DescribingLogicClearl
 _Chapter12_Turning-Thoughts-into-Code/src/main/kotlin/12_3_ApplyingThisMethodToLargerProblems.kt,b\b\bb219b24bbf2aa76f8e2363b6d9c793f7c671180
 U
 %Chapter13_Writing-Less-Code/README.md,5\b\5bd5425f79fb659d11370603f6fc816589ed85c9
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
