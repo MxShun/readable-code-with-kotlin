@@ -22,7 +22,7 @@ detekt {
             "${it.projectDir}/src/test/kotlin"
         )
     }
-    input = files(sources)
+    source = files(sources)
 }
 
 project.dependencies {
