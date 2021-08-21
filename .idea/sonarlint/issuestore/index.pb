@@ -81,14 +81,10 @@ cChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_7_NamedFunction
 WChapter04_Aesthetics/src/main/kotlin/4_2_RearrangeLineBreaksToBeConsistentAndCompact.kt,2\e\2e6ee404c51a3ac85c3832077faa0974c318e499
 ò
 hChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_8_ExampleEvaluatingMultipleNameCandidates.kt,9\d\9d363141b7e744597b85edbcc30860c4ac3233f5
-A
-gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
 L
 .github/workflows/detekt.yml,a\1\a10da4fa97329e9b73e94a83f5ab1e7a2dd04f61
 F
 .github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
-@
-build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 
 OChapter09_Variables-and-Readability/src/main/kotlin/9_1_EliminatingVariables.kt,6\a\6adf5bc1306b7982e07c873c0099f669997569e8
 à
@@ -136,3 +132,7 @@ SChapter12_Turning-Thoughts-into-Code/src/main/kotlin/12_1_DescribingLogicClearl
 .Chapter12_Turning-Thoughts-into-Code/README.md,c\6\c6923fb4fd61c718f132f5d081552869ebe938d5
 è
 _Chapter12_Turning-Thoughts-into-Code/src/main/kotlin/12_3_ApplyingThisMethodToLargerProblems.kt,b\b\bb219b24bbf2aa76f8e2363b6d9c793f7c671180
+U
+%Chapter13_Writing-Less-Code/README.md,5\b\5bd5425f79fb659d11370603f6fc816589ed85c9
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
