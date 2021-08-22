@@ -1,6 +1,4 @@
 
-X
-(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
 î
@@ -109,9 +107,6 @@ T
 $.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 d
 4Chapter10_Extracting-Unrelated-Subproblems/README.md,1\5\15797848622d7e23c776ab74b540356fadfe0fe5
 Å
