@@ -1,6 +1,6 @@
 import java.time.LocalDateTime
 
-fun setViewdTimeNow(message: Message) {
+fun setViewedTimeNow(message: Message) {
     // ✕複雑な式を分割しているわけでなく、より明確になっているわけでもない
     val now = LocalDateTime.now()
     message.lastViewedTime = now

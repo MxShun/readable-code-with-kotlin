@@ -1,20 +1,12 @@
 
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
-â
-YChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_4_AbusingShortCircuitLogic.kt,0\0\00fb6ee04dd84b6bc8ebb2e6178443d412dc5743
-Å
-QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.kt,1\1\11ac2ef024bada5c6515fa546127172b613e546d
 Ä
 PChapter04_Aesthetics/src/test/kotlin/_4_4_UseColumnAlignmentWhenHelpfulKtTest.kt,6\2\6256f87526f4f44e25290e21092437d428ce7152
-ï
-eChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_5_ExampleWrestlingWithComplicatedLogic.kt,c\f\cf4799baf35f7228dd6faddff34da4afdf3f9ee2
 L
 .github/workflows/detekt.yml,a\1\a10da4fa97329e9b73e94a83f5ab1e7a2dd04f61
 F
 .github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
-
-OChapter09_Variables-and-Readability/src/main/kotlin/9_1_EliminatingVariables.kt,6\a\6adf5bc1306b7982e07c873c0099f669997569e8
 à
 XChapter09_Variables-and-Readability/src/main/kotlin/9_2_ShrinkTheScopeOfYourVariables.kt,3\b\3b4607a3e6a3009f55f1577e12499bc3540cb2a1
 Ñ
