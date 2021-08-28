@@ -51,8 +51,6 @@ tChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_5_UseInputOutpu
 TChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_1_ExplainingVariables.kt,a\f\af77e84ff57ad4481b425c2d36b808f2bc2b7f18
 å
 \Chapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_7_MatchingExpectationsOfUsers.kt,d\e\de58fbcdeaf9582924529c4d3bd7503aa09b9d34
-Å
-QChapter02_Packing-Information-into-Words/src/main/kotlin/2_2_AvoidGenericNames.kt,9\7\9798a8ddf31b2076091a5d2f82ea0bfb478a09bf
 ê
 `Chapter02_Packing-Information-into-Words/src/main/kotlin/2_4_AttachingExtraInformationToAName.kt,6\6\66c0040694c9f22ca0f97aaf5ec21750dace51a0
 è
