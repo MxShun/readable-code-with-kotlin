@@ -9,5 +9,5 @@ class Logger1 {
 class Logger2
 {
     // クラス定義
-    // Kotlin coding conventionsではあまり推奨されていない
+    // Kotlin coding conventionsでは推奨されていない
 }

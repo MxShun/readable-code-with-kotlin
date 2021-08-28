@@ -1,8 +1,6 @@
 
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
-s
-CChapter04_Aesthetics/src/main/kotlin/4_7_BreakCodeIntoParagraphs.kt,5\6\5676a1a4e9eb65280b7e7e7055c09f0c082bf12e
 ç
 ]Chapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_6_StateTheIntentOfYourCode.kt,c\e\ce0325cece172ea89dcbc231b6f099cd7efdba43
 à
@@ -17,8 +15,6 @@ NChapter05_Knowing-What-to-Comment/src/main/kotlin/5_2_RecordingYourThoughts.kt
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_2_SummaryVariables.kt,1\c\1c08f81b89bfd694dcc65a61a98b713cbfb59f25
 y
 IChapter05_Knowing-What-to-Comment/src/main/kotlin/5_1_WhatNotToComment.kt,e\4\e47bb07fc0494099702081c107113073e8665ec7
-z
-JChapter04_Aesthetics/src/main/kotlin/4_8_PersonalStyleVersusConsistency.kt,a\c\acb5248cb89bc7b11f42f5f2b943aca0d7cd3aba
 Å
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.kt,1\1\11ac2ef024bada5c6515fa546127172b613e546d
 É
