@@ -1,7 +1,7 @@
 import java.time.LocalDateTime
 
 class PrintEvents {
-    val eventList: List<Event> = listOf()
+    val eventList: List<Event> = emptyList()
 
     // ✕
     // 10月16日に開催されたイベントをすべて印字したいとき

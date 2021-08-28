@@ -1,16 +1,6 @@
 
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
-î
-dChapter02_Packing-Information-into-Words/src/main/kotlin/2_3_PreferConcreteNamesOverAbstractNames.kt,2\9\2913b7e5b4faa2a1cc402ec7ffca03abe09b767e
-~
-NChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_1_ExampleFilter.kt,f\9\f9d67860d9446b966fabf3dca01ebaf3fb7a6402
-|
-LChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_2_ExampleClip.kt,1\8\182aa82aa49ce7a033f4c6875489d1ffbfdecc94
-ï
-eChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_4_PreferFirstAndLastForInclusiveRanges.kt,b\2\b2684f9243f50883a2aabe6f7db3271762b52b1a
-ù
-mChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_5_PreferBeginAndEndForInclusiveExclusiveRanges.kt,4\4\44954900bd0b6b76b2f95e223e8f5ecc9d52d10c
 {
 KChapter04_Aesthetics/src/main/kotlin/4_3_UseMethodsToCleanUpIrregularity.kt,d\8\d8f511ab73dc8a747dd3d2996d243b7cea557ce7
 Ñ
@@ -49,16 +39,6 @@ fChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_4_DescribeFunct
 tChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_5_UseInputOutputExamplesThatIllustrateCornerCases.kt,f\0\f0750ffd65d0ef7494d13f46102cd172ef8c79a8
 Ñ
 TChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_1_ExplainingVariables.kt,a\f\af77e84ff57ad4481b425c2d36b808f2bc2b7f18
-å
-\Chapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_7_MatchingExpectationsOfUsers.kt,d\e\de58fbcdeaf9582924529c4d3bd7503aa09b9d34
-ê
-`Chapter02_Packing-Information-into-Words/src/main/kotlin/2_4_AttachingExtraInformationToAName.kt,6\6\66c0040694c9f22ca0f97aaf5ec21750dace51a0
-è
-_Chapter02_Packing-Information-into-Words/src/main/kotlin/2_6_UseNameFormattingToCoveyMeaning.kt,9\4\9497826e8879fe049ab8d40aac8b8f85e8f710f2
-í
-bChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_3_PreferMinAndMaxForInclusiveLimits.kt,c\9\c94056a9c300367e6442d992ee1228cb6358d355
-
-OChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_6_NamingBooleans.kt,7\b\7bf4be9efb4e4450e6154ee64ba2ef32b65a779b
 á
 WChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_7_HowNestingAccumulates.kt,b\0\b02a090af2a5888ae3110615342be08a4ee244b4
 ï
