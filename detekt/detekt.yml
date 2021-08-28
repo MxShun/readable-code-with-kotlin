@@ -716,7 +716,7 @@ style:
     active: false
     acceptableDecimalLength: 5
   UnnecessaryAbstractClass:
-    active: true
+    active: false # 意味を持たせないため実体のない抽象クラス・関数を許容
     excludeAnnotatedClasses:
       - 'dagger.Module'
   UnnecessaryAnnotationUseSiteTarget:
