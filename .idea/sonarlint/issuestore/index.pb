@@ -9,8 +9,6 @@ XChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_2_TheOrderOfIfElse
 iChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_3_TheConditionalExpressionTernaryOperator.kt,8\c\8cf09f3cffcb276b5a8e4da0fe714dd17a5a4b5c
 â
 YChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_4_AbusingShortCircuitLogic.kt,0\0\00fb6ee04dd84b6bc8ebb2e6178443d412dc5743
-~
-NChapter05_Knowing-What-to-Comment/src/main/kotlin/5_2_RecordingYourThoughts.kt,2\5\256dae017fabf097b0cfed2b9b76707bca6df29c
 Å
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_2_SummaryVariables.kt,1\c\1c08f81b89bfd694dcc65a61a98b713cbfb59f25
 Å
@@ -19,8 +17,6 @@ QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.
 SChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_4_AvoidDoWhileLoops.kt,5\4\54145307df4ec90474c5ca9e6863360f90d6ff43
 Ä
 PChapter04_Aesthetics/src/test/kotlin/_4_4_UseColumnAlignmentWhenHelpfulKtTest.kt,6\2\6256f87526f4f44e25290e21092437d428ce7152
-Ñ
-TChapter05_Knowing-What-to-Comment/src/main/kotlin/5_3_AnticipatingLikelyQuestions.kt,b\1\b1ab687b986708e83e2e3e3fd31797c73cb726c2
 ñ
 fChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_4_DescribeFunctionBehaviorPrecisely.kt,2\6\268b5c5b1b97ef0cde3b147889ca8c142e44794d
 §
