@@ -6,7 +6,7 @@ fun isRootUser1(userInfo: String): Boolean {
 
 fun isRootUser2(userInfo: String): Boolean {
     // 〇説明変数がその役割を果たしている
-    val userName = userInfo.split(":")[0].trim()
+    val userName = userInfo.split(":").firstOrNull()?.trim()
     if (userName == "root") return true
     return false
 }

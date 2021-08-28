@@ -9,14 +9,8 @@ QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_2_SummaryVariables.
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.kt,1\1\11ac2ef024bada5c6515fa546127172b613e546d
 Ä
 PChapter04_Aesthetics/src/test/kotlin/_4_4_UseColumnAlignmentWhenHelpfulKtTest.kt,6\2\6256f87526f4f44e25290e21092437d428ce7152
-Ñ
-TChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_1_ExplainingVariables.kt,a\f\af77e84ff57ad4481b425c2d36b808f2bc2b7f18
-á
-WChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_7_HowNestingAccumulates.kt,b\0\b02a090af2a5888ae3110615342be08a4ee244b4
 ï
 eChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_5_ExampleWrestlingWithComplicatedLogic.kt,c\f\cf4799baf35f7228dd6faddff34da4afdf3f9ee2
-ç
-]Chapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_5_ReturningEarlyFromAFunction.kt,b\8\b824dc184eab72af1991322c85c391e999b8f8a8
 L
 .github/workflows/detekt.yml,a\1\a10da4fa97329e9b73e94a83f5ab1e7a2dd04f61
 F
