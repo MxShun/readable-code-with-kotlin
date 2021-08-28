@@ -111,8 +111,6 @@ d
 4Chapter10_Extracting-Unrelated-Subproblems/README.md,1\5\15797848622d7e23c776ab74b540356fadfe0fe5
 Å
 QChapter11_One-Task-at-a-Time/src/main/kotlin/11_2_ExtractingValuesFromAnObject.kt,7\5\759884b5f83d793c5af150df8375ea7e50576d8a
-t
-DChapter11_One-Task-at-a-Time/src/main/kotlin/11_1_TasksCanBeSmall.kt,4\8\48a5305fba89420278268f4d9a5d93c5f8da5ae2
 s
 CChapter11_One-Task-at-a-Time/src/main/kotlin/11_3_ALargerExample.kt,8\3\83a2dd2c679e326567ceddf8dbd6a5f6ac2372d1
 ;
