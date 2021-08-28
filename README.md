@@ -1,6 +1,8 @@
 # "The Art of Readable Code" with Kotlin Samples (*in Japanese*)
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-v1.5.30-blueviolet?&logo=kotlin&logoColor=white)](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30) [![detekt](https://github.com/MxShun/readable-code-with-kotlin/actions/workflows/detekt.yml/badge.svg)](https://github.com/MxShun/readable-code-with-kotlin/actions/workflows/detekt.yml)
+[![Kotlin](https://img.shields.io/badge/Kotlin-v1.5.30-blueviolet?&logo=kotlin&logoColor=white)](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30) 
+[![Gradle](https://img.shields.io/badge/Gradle-v7.2-blue?&logo=gradle)](https://github.com/gradle/gradle/releases/tag/v7.2.0)
+[![detekt](https://github.com/MxShun/readable-code-with-kotlin/actions/workflows/detekt.yml/badge.svg)](https://github.com/MxShun/readable-code-with-kotlin/actions/workflows/detekt.yml)
 
 「 [リーダブルコード――より良いコードを書くためのシンプルで実践的なテクニック](https://www.oreilly.co.jp/books/9784873115658/) 」の各コンセプトを簡単にまとめ、勉強がてら Kotlin のサンプルコードを記述しました。
 
