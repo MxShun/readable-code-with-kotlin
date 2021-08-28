@@ -17,10 +17,6 @@ QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.
 SChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_4_AvoidDoWhileLoops.kt,5\4\54145307df4ec90474c5ca9e6863360f90d6ff43
 €
 PChapter04_Aesthetics/src/test/kotlin/_4_4_UseColumnAlignmentWhenHelpfulKtTest.kt,6\2\6256f87526f4f44e25290e21092437d428ce7152
-–
-fChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_4_DescribeFunctionBehaviorPrecisely.kt,2\6\268b5c5b1b97ef0cde3b147889ca8c142e44794d
-¤
-tChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_5_UseInputOutputExamplesThatIllustrateCornerCases.kt,f\0\f0750ffd65d0ef7494d13f46102cd172ef8c79a8
 „
 TChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_1_ExplainingVariables.kt,a\f\af77e84ff57ad4481b425c2d36b808f2bc2b7f18
 ‡
