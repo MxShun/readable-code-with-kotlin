@@ -7,12 +7,6 @@ L
 .github/workflows/detekt.yml,a\1\a10da4fa97329e9b73e94a83f5ab1e7a2dd04f61
 F
 .github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
-à
-XChapter09_Variables-and-Readability/src/main/kotlin/9_2_ShrinkTheScopeOfYourVariables.kt,3\b\3b4607a3e6a3009f55f1577e12499bc3540cb2a1
-Ñ
-TChapter09_Variables-and-Readability/src/main/kotlin/9_3_PreferWrite-OnceVariables.kt,3\5\3563d6242182cd61806fac921b5cb5a701033e7b
-y
-IChapter09_Variables-and-Readability/src/main/kotlin/9_4_A FinalExample.kt,c\6\c6a661ed0aa448f2e31eeb87438c3d5f855854b2
 ã
 [Chapter10_Extracting-Unrelated-Subproblems/src/main/kotlin/10_3_OtherGeneral-PurposeCode.kt,8\e\8e6d2692aad69b464d1e8dc22562c927761fb615
 ê

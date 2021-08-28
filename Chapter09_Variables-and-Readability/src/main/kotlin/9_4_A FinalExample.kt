@@ -21,7 +21,7 @@ fun getElementWithNewValue1(newValue: String): Element {
 fun getElementWithNewValue2(newValue: String): Element? {
     for (i in 1..Int.MAX_VALUE) {
         val elem = Document().getElementById(i)
-        if (elem == null) return null
+        elem ?: return null
 
         if (elem.value == "") {
             elem.value = newValue
