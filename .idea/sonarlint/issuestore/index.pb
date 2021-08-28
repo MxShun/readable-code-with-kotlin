@@ -13,8 +13,6 @@ YChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_4_AbusingShortCircu
 NChapter05_Knowing-What-to-Comment/src/main/kotlin/5_2_RecordingYourThoughts.kt,2\5\256dae017fabf097b0cfed2b9b76707bca6df29c
 Å
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_2_SummaryVariables.kt,1\c\1c08f81b89bfd694dcc65a61a98b713cbfb59f25
-y
-IChapter05_Knowing-What-to-Comment/src/main/kotlin/5_1_WhatNotToComment.kt,e\4\e47bb07fc0494099702081c107113073e8665ec7
 Å
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.kt,1\1\11ac2ef024bada5c6515fa546127172b613e546d
 É
