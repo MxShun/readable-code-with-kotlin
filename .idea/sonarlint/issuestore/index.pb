@@ -1,10 +1,6 @@
 
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
-{
-KChapter04_Aesthetics/src/main/kotlin/4_3_UseMethodsToCleanUpIrregularity.kt,d\8\d8f511ab73dc8a747dd3d2996d243b7cea557ce7
-Ñ
-TChapter04_Aesthetics/src/main/kotlin/4_5_PickAMeaningfulOrderAndUseItConsistently.kt,a\8\a8afbc2e59ac670cceff343ef4101a1ad6d84999
 s
 CChapter04_Aesthetics/src/main/kotlin/4_7_BreakCodeIntoParagraphs.kt,5\6\5676a1a4e9eb65280b7e7e7055c09f0c082bf12e
 ç
@@ -21,8 +17,6 @@ NChapter05_Knowing-What-to-Comment/src/main/kotlin/5_2_RecordingYourThoughts.kt
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_2_SummaryVariables.kt,1\c\1c08f81b89bfd694dcc65a61a98b713cbfb59f25
 y
 IChapter05_Knowing-What-to-Comment/src/main/kotlin/5_1_WhatNotToComment.kt,e\4\e47bb07fc0494099702081c107113073e8665ec7
-q
-AChapter04_Aesthetics/src/main/kotlin/4_1_WhyDoAestheticsMatter.kt,9\b\9bd06da8888f7d0bd548ecb1b1f130f49d278fa5
 z
 JChapter04_Aesthetics/src/main/kotlin/4_8_PersonalStyleVersusConsistency.kt,a\c\acb5248cb89bc7b11f42f5f2b943aca0d7cd3aba
 Å
@@ -49,10 +43,6 @@ eChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_5_ExampleWrestlingW
 cChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_1_TheOrderOfArgumentsInConditionals.kt,7\b\7b4503ab640e9c3e1c395f7b2f80fc8232a71ad6
 ì
 cChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_7_NamedFunctionParameterComments.kt,e\5\e51f4bf9b769e9af43d20e4c1fa8718a5c7dc368
-á
-WChapter04_Aesthetics/src/main/kotlin/4_2_RearrangeLineBreaksToBeConsistentAndCompact.kt,2\e\2e6ee404c51a3ac85c3832077faa0974c318e499
-ò
-hChapter03_Names-That-Cant-Be-Misconstrued/src/main/kotlin/3_8_ExampleEvaluatingMultipleNameCandidates.kt,9\d\9d363141b7e744597b85edbcc30860c4ac3233f5
 L
 .github/workflows/detekt.yml,a\1\a10da4fa97329e9b73e94a83f5ab1e7a2dd04f61
 F

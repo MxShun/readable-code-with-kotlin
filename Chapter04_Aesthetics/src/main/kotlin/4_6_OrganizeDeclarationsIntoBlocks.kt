@@ -1,33 +1,33 @@
 import java.net.http.HttpRequest
 
 // ✕メソッドの概要をすぐに把握できるような階層にはなっていない。
-class BadFrontendServer {
-    fun frontendServer() {}
-    fun viewProfile(request: HttpRequest) {}
-    fun openDatabase(location: String, user: String) {}
-    fun saveProfile(request: HttpRequest) {}
-    fun extractQueryParam(request: HttpRequest, param: String): String = ""
-    fun replyOk(request: HttpRequest, html: String) {}
-    fun findFriends(request: HttpRequest) {}
-    fun replyNotFound(request: HttpRequest, error: String) {}
-    fun closeDatabase(location: String) {}
+abstract class BadFrontendServer {
+    abstract fun frontendServer()
+    abstract fun viewProfile(request: HttpRequest)
+    abstract fun openDatabase(location: String, user: String)
+    abstract fun saveProfile(request: HttpRequest)
+    abstract fun extractQueryParam(request: HttpRequest, param: String): String
+    abstract fun replyOk(request: HttpRequest, html: String)
+    abstract fun findFriends(request: HttpRequest)
+    abstract fun replyNotFound(request: HttpRequest, error: String)
+    abstract fun closeDatabase(location: String)
 }
 
 // 〇論理的なグループで分けられており、概要が把握しやすくなった。
-class GoodFrontendServer {
-    fun frontendServer() {}
+abstract class GoodFrontendServer {
+    abstract fun frontendServer()
 
     // ハンドラ
-    fun viewProfile(request: HttpRequest) {}
-    fun saveProfile(request: HttpRequest) {}
-    fun findFriends(request: HttpRequest) {}
+    abstract fun viewProfile(request: HttpRequest)
+    abstract fun saveProfile(request: HttpRequest)
+    abstract fun findFriends(request: HttpRequest)
 
     // リクエストとリプライのユーティリティ
-    fun extractQueryParam(request: HttpRequest, param: String): String = ""
-    fun replyOk(request: HttpRequest, html: String) {}
-    fun replyNotFound(request: HttpRequest, error: String) {}
+    abstract fun extractQueryParam(request: HttpRequest, param: String): String
+    abstract fun replyOk(request: HttpRequest, html: String)
+    abstract fun replyNotFound(request: HttpRequest, error: String)
 
     // データベースのヘルパー
-    fun openDatabase(location: String, user: String) {}
-    fun closeDatabase(location: String) {}
+    abstract fun openDatabase(location: String, user: String)
+    abstract fun closeDatabase(location: String)
 }
