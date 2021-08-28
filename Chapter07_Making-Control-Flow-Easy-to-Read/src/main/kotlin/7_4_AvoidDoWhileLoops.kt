@@ -22,16 +22,16 @@ fun listHasNodeWhile(node: Node, name: String, maxLength: Int): Boolean {
     var maxLength = maxLength
 
     while (node != null && maxLength-- > 0) {
-        if (node.name().equals(name)) return true
+        if (node.name() == name) return true
         node = node.next()
     }
     return false
 }
 
 class Node {
-    val name: String = ""
+    private val name: String = ""
     val value: String = ""
-    val sub: List<Node> = listOf()
+    private val sub: List<Node> = listOf()
     fun name(): String = name
     fun next(): Node = sub.first()
 }

@@ -1,18 +1,12 @@
 
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
-à
-XChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_2_TheOrderOfIfElseBlocks.kt,a\4\a4f3697c962417fd7123bdd680f95d2c9a789c0c
-ô
-iChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_3_TheConditionalExpressionTernaryOperator.kt,8\c\8cf09f3cffcb276b5a8e4da0fe714dd17a5a4b5c
 â
 YChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_4_AbusingShortCircuitLogic.kt,0\0\00fb6ee04dd84b6bc8ebb2e6178443d412dc5743
 Å
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_2_SummaryVariables.kt,1\c\1c08f81b89bfd694dcc65a61a98b713cbfb59f25
 Å
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.kt,1\1\11ac2ef024bada5c6515fa546127172b613e546d
-É
-SChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_4_AvoidDoWhileLoops.kt,5\4\54145307df4ec90474c5ca9e6863360f90d6ff43
 Ä
 PChapter04_Aesthetics/src/test/kotlin/_4_4_UseColumnAlignmentWhenHelpfulKtTest.kt,6\2\6256f87526f4f44e25290e21092437d428ce7152
 Ñ
