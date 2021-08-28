@@ -20,14 +20,20 @@ fun readDocument(request: Request) {
     }
 }
 
-class Request {
-    val user = User()
+class Request(
+    val user: User
+) {
+    constructor() : this(user = User())
 }
 
-class Document {
-    val ownerId = ""
+class Document(
+    val ownerId: String
+) {
+    constructor() : this(ownerId = "")
 }
 
-class User {
-    val id =  ""
+class User(
+    val id: String
+) {
+    constructor() : this(id = "")
 }

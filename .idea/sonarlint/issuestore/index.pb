@@ -4,8 +4,6 @@ C
 â
 YChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_4_AbusingShortCircuitLogic.kt,0\0\00fb6ee04dd84b6bc8ebb2e6178443d412dc5743
 Å
-QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_2_SummaryVariables.kt,1\c\1c08f81b89bfd694dcc65a61a98b713cbfb59f25
-Å
 QChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_3_UseDeMorgansLaws.kt,1\1\11ac2ef024bada5c6515fa546127172b613e546d
 Ä
 PChapter04_Aesthetics/src/test/kotlin/_4_4_UseColumnAlignmentWhenHelpfulKtTest.kt,6\2\6256f87526f4f44e25290e21092437d428ce7152
