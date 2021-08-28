@@ -1,8 +1,6 @@
 
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
-ç
-]Chapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_6_StateTheIntentOfYourCode.kt,c\e\ce0325cece172ea89dcbc231b6f099cd7efdba43
 à
 XChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_2_TheOrderOfIfElseBlocks.kt,a\4\a4f3697c962417fd7123bdd680f95d2c9a789c0c
 ô
@@ -25,10 +23,6 @@ WChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_7_HowNestingAccumu
 eChapter08_Breaking-Down-Giant-Expressions/src/main/kotlin/8_5_ExampleWrestlingWithComplicatedLogic.kt,c\f\cf4799baf35f7228dd6faddff34da4afdf3f9ee2
 ç
 ]Chapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_5_ReturningEarlyFromAFunction.kt,b\8\b824dc184eab72af1991322c85c391e999b8f8a8
-ì
-cChapter07_Making-Control-Flow-Easy-to-Read/src/main/kotlin/7_1_TheOrderOfArgumentsInConditionals.kt,7\b\7b4503ab640e9c3e1c395f7b2f80fc8232a71ad6
-ì
-cChapter06_Making-Comments-Precise-and-Compact/src/main/kotlin/6_7_NamedFunctionParameterComments.kt,e\5\e51f4bf9b769e9af43d20e4c1fa8718a5c7dc368
 L
 .github/workflows/detekt.yml,a\1\a10da4fa97329e9b73e94a83f5ab1e7a2dd04f61
 F
