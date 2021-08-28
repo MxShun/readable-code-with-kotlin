@@ -1,31 +1,27 @@
 import java.net.URL
 
-class Get {
+abstract class Get {
     // ✕どこからgetするかが不透明
     // ローカルから？インターネットから？
-    fun getPage(url: URL): Any {
-        return url.openConnection().getContent()
-    }
+    abstract fun getPage(url: URL): Any
 
     // 〇目的に合わせて名づける
-    fun fetchPage(url: URL): Any {
-        return url.openConnection().getContent()
-    }
+    abstract fun fetchPage(url: URL): Any
 }
 
-class BinaryTree {
+abstract class BinaryTree {
     // ✕なにを返すのかが不透明
     // ツリーの高さ？ノード数？ツリーのメモリ消費量？
-    fun size(): Int = 0
+    abstract fun size(): Int
 
     // 〇なにを返すのかが明確
-    fun numNode(): Int = 0
+    abstract fun numNode(): Int
 }
 
-class Thread {
+abstract class Thread {
     // △動作に合わせてより明確な名前をつけた方がよい
-    fun stop() {}
+    abstract fun stop()
 
     // 〇取り消しができない重い操作の場合
-    fun kill() {}
+    abstract fun kill()
 }
