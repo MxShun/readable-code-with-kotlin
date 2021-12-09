@@ -26,7 +26,7 @@ detekt {
 }
 
 project.dependencies {
-    detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:1.18.1")
+    detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:1.19.0")
 }
 
 tasks.withType<io.gitlab.arturbosch.detekt.Detekt> {
