@@ -1,6 +1,6 @@
 # "The Art of Readable Code" with Kotlin Samples (*in Japanese*)
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-v1.6.0-blueviolet?&logo=kotlin&logoColor=white)](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30) 
+[![Kotlin](https://img.shields.io/badge/Kotlin-v1.6.10-blueviolet?&logo=kotlin&logoColor=white)](https://github.com/JetBrains/kotlin/releases/tag/v1.6.10) 
 [![Gradle](https://img.shields.io/badge/Gradle-v7.2-blue?&logo=gradle)](https://github.com/gradle/gradle/releases/tag/v7.2.0)
 [![detekt](https://github.com/MxShun/readable-code-with-kotlin/actions/workflows/detekt.yml/badge.svg)](https://github.com/MxShun/readable-code-with-kotlin/actions/workflows/detekt.yml)
 
