@@ -15,9 +15,10 @@ fun findClosestLocation1(lat: Double, lng: Double, array: Array<Location>): Loca
         val lng2Rad = toRadians(array[i].longitude)
 
         // 「球面三角法の第二余弦定理」の公式を使う
-        val dist = acos(sin(latRad) * sin(lat2Rad) +
-                        cos(latRad) * cos(lat2Rad) *
-                        cos(lng2Rad - lngRad)
+        val dist = acos(
+            sin(latRad) * sin(lat2Rad) +
+            cos(latRad) * cos(lat2Rad) *
+            cos(lng2Rad - lngRad)
         )
         if (dist < closestDist) {
             closest = array[i]
@@ -58,9 +59,11 @@ private fun getSphericalDistance(
     val lng2Rad = toRadians(lng2)
 
     // 「球面三角法の第二余弦定理」の公式を使う
-    return acos(sin(lat1Rad) * sin(lat2Rad) +
-                cos(lat1Rad) * cos(lat2Rad) *
-                cos(lng2Rad - lng1Rad))
+    return acos(
+        sin(lat1Rad) * sin(lat2Rad) +
+        cos(lat1Rad) * cos(lat2Rad) *
+        cos(lng2Rad - lng1Rad)
+    )
 }
 
 data class Location(

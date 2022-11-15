@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     idea
     kotlin("jvm") version "1.7.21" apply false
-    id("io.gitlab.arturbosch.detekt") version "1.20.0"
+    id("io.gitlab.arturbosch.detekt") version "1.21.0"
 }
 
 repositories {
@@ -12,7 +12,7 @@ repositories {
 }
 
 detekt {
-    toolVersion = "1.17.1"
+    toolVersion = "1.21.0"
     buildUponDefaultConfig = true
     config = files("detekt/detekt.yml")
 
@@ -26,7 +26,7 @@ detekt {
 }
 
 project.dependencies {
-    detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:1.20.0")
+    detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:1.21.0")
 }
 
 tasks.withType<io.gitlab.arturbosch.detekt.Detekt> {

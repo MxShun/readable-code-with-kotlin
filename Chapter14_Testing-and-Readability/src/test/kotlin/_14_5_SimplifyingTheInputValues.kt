@@ -58,11 +58,13 @@ private fun checkScoresBeforeAfter(
     )
 
     if (after != result.map { it.score }) {
-        println("""
-            checkScoresBeforeAfter() failed,
-            Input:           $before
-            Expected Output: $after
-            Actual Output:   $result
-        """.trimIndent())
+        println(
+            """
+                checkScoresBeforeAfter() failed,
+                Input:           $before
+                Expected Output: $after
+                Actual Output:   $result
+            """.trimIndent()
+        )
     }
 }

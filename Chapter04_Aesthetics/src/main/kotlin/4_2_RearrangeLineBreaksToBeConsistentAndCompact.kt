@@ -6,17 +6,20 @@ class NotGoodPerformanceTester {
         500, /* Kbps */
         80, /* millisecs latency */
         200, /* jitter */
-        1 /* packet loss */ )
+        1 /* packet loss */
+    )
     val t3Fiber = TcpConnectionSimulator(
         45000, /* Kbps */
         10, /* millisecs latency */
         0, /* jitter */
-        0 /* packet loss */ )
+        0 /* packet loss */
+    )
     val cell = TcpConnectionSimulator(
         100, /* Kbps */
         400, /* millisecs latency */
         250, /* jitter */
-        5 /* packet loss */ )
+        5 /* packet loss */
+    )
 }
 
 // 〇より簡潔な表組みにデータが並ぶようになった

@@ -1,3 +1,5 @@
+@file:Suppress("Wrapping")
+
 import org.junit.jupiter.api.Test
 import java.sql.Connection
 import java.sql.DriverManager
