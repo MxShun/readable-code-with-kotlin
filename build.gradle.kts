@@ -12,7 +12,7 @@ repositories {
 }
 
 detekt {
-    toolVersion = "1.17.1"
+    toolVersion = "1.21.0"
     buildUponDefaultConfig = true
     config = files("detekt/detekt.yml")
 
