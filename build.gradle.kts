@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     idea
-    kotlin("jvm") version "1.6.10" apply false
+    kotlin("jvm") version "1.7.21" apply false
     id("io.gitlab.arturbosch.detekt") version "1.20.0"
 }
 
@@ -44,7 +44,7 @@ subprojects {
 
     dependencies {
         val testImplementation by configurations
-        testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.2")
+        testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.1")
     }
 
     tasks {
