@@ -34,11 +34,13 @@ private fun checkScoresBeforeAfter(
 
     // 〇 入出力値も表示されより役に立つ
     if (after != result.map { it.score }) {
-        println("""
-            checkScoresBeforeAfter() failed,
-            Input:           $before
-            Expected Output: $after
-            Actual Output:   $result
-        """.trimIndent())
+        println(
+            """
+                checkScoresBeforeAfter() failed,
+                Input:           $before
+                Expected Output: $after
+                Actual Output:   $result
+            """.trimIndent()
+        )
     }
 }
